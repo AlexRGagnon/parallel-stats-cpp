@@ -1,0 +1,17 @@
+{
+  "observations":2000000,
+  "workers":1,
+  "hardware_threads":32,
+  "queue_capacity":8,
+  "chunk_size":16384,
+  "seed":17,
+  "repeats":9,
+  "serial_ms":[7.7444,7.911,7.8319,7.7717,7.9213,7.764,7.8557,7.7556,7.9191],
+  "parallel_ms":[8.5419,8.0241,8.2982,8.0082,8.6053,8.0619,8.0494,8.0217,8.1161],
+  "serial_median_ms":7.8319,
+  "parallel_median_ms":8.0619,
+  "speedup":0.97147074511,
+  "mean":10005.0007437,
+  "population_variance":8.33533576194,
+  "exact_ordered_match":true
+}
